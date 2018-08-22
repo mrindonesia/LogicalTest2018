@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogicalTest", "LogicalTest\LogicalTest.csproj", "{DEAE384F-7C02-4E27-9ACC-4ABA05CBB3EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Recrusive", "Recrusive\Recrusive.csproj", "{B6370FDC-6C67-48A7-BBEB-B38EC660714D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DEAE384F-7C02-4E27-9ACC-4ABA05CBB3EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEAE384F-7C02-4E27-9ACC-4ABA05CBB3EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEAE384F-7C02-4E27-9ACC-4ABA05CBB3EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEAE384F-7C02-4E27-9ACC-4ABA05CBB3EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6370FDC-6C67-48A7-BBEB-B38EC660714D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6370FDC-6C67-48A7-BBEB-B38EC660714D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6370FDC-6C67-48A7-BBEB-B38EC660714D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6370FDC-6C67-48A7-BBEB-B38EC660714D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

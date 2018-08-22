@@ -1,0 +1,6 @@
+D:\2018FILES\Batch92XSIS\BootCamp\LogicalTest\LogicalTest\bin\Debug\LogicalTest.exe.config
+D:\2018FILES\Batch92XSIS\BootCamp\LogicalTest\LogicalTest\bin\Debug\LogicalTest.exe
+D:\2018FILES\Batch92XSIS\BootCamp\LogicalTest\LogicalTest\bin\Debug\LogicalTest.pdb
+D:\2018FILES\Batch92XSIS\BootCamp\LogicalTest\LogicalTest\obj\Debug\LogicalTest.exe
+D:\2018FILES\Batch92XSIS\BootCamp\LogicalTest\LogicalTest\obj\Debug\LogicalTest.pdb
+D:\2018FILES\Batch92XSIS\BootCamp\LogicalTest\LogicalTest\obj\Debug\LogicalTest.csprojResolveAssemblyReference.cache

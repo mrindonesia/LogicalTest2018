@@ -1,0 +1,6 @@
+D:\2018FILES\Batch92XSIS\BootCamp\LogicalTest\Recrusive\bin\Debug\Recrusive.exe.config
+D:\2018FILES\Batch92XSIS\BootCamp\LogicalTest\Recrusive\bin\Debug\Recrusive.exe
+D:\2018FILES\Batch92XSIS\BootCamp\LogicalTest\Recrusive\bin\Debug\Recrusive.pdb
+D:\2018FILES\Batch92XSIS\BootCamp\LogicalTest\Recrusive\obj\Debug\Recrusive.csprojResolveAssemblyReference.cache
+D:\2018FILES\Batch92XSIS\BootCamp\LogicalTest\Recrusive\obj\Debug\Recrusive.exe
+D:\2018FILES\Batch92XSIS\BootCamp\LogicalTest\Recrusive\obj\Debug\Recrusive.pdb
