@@ -1,0 +1,5 @@
+D:\2018FILES\Batch92XSIS\BootCamp\LogicalTest\InterView\bin\Debug\InterView.exe.config
+D:\2018FILES\Batch92XSIS\BootCamp\LogicalTest\InterView\bin\Debug\InterView.exe
+D:\2018FILES\Batch92XSIS\BootCamp\LogicalTest\InterView\bin\Debug\InterView.pdb
+D:\2018FILES\Batch92XSIS\BootCamp\LogicalTest\InterView\obj\Debug\InterView.exe
+D:\2018FILES\Batch92XSIS\BootCamp\LogicalTest\InterView\obj\Debug\InterView.pdb
